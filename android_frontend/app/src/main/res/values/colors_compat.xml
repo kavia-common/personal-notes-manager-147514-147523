@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Legacy AppCompat color aliases expected by some libraries -->
+    <color name="colorPrimary">@color/ocean_primary</color>
+    <color name="colorPrimaryDark">@color/ocean_primary</color>
+    <color name="colorAccent">@color/ocean_secondary</color>
+</resources>

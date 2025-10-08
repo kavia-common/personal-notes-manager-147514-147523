@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="m3_ref_palette_dynamic_primary50">@color/ocean_primary</color>
+    <color name="m3_ref_palette_dynamic_secondary50">@color/ocean_secondary</color>
+    <color name="m3_ref_palette_dynamic_error50">@color/ocean_error</color>
+</resources>
